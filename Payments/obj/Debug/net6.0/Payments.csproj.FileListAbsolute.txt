@@ -1,0 +1,15 @@
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\bin\Debug\net6.0\Payments.exe
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\bin\Debug\net6.0\Payments.deps.json
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\bin\Debug\net6.0\Payments.runtimeconfig.json
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\bin\Debug\net6.0\Payments.dll
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\bin\Debug\net6.0\Payments.pdb
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.csproj.AssemblyReference.cache
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.AssemblyInfo.cs
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.dll
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\refint\Payments.dll
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.pdb
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\Payments.genruntimeconfig.cache
+C:\Users\Ramon\Documents\GitHub\csharp\Payments\obj\Debug\net6.0\ref\Payments.dll
